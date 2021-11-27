@@ -1,0 +1,27 @@
+:root {
+    --primary: #fff;
+
+    /* header */
+    --header-logo-text: #576368;
+    --header-link-selected: #185EE6;
+    --header-link-text: rgba(0, 0, 0, 0.7);
+    --header-padding-vertical: 0.75rem;
+    --header-padding-horizontal: 2rem;
+    --header-shadow: 0 1px 0 0 #d1d4d9;
+
+    /* hamburger menu */
+    --hamburger-link-selected: rgba(0, 0, 0, 0.7);
+    --hamburger-link: rgba(0, 0, 0, 0.6);
+
+
+    /* buttons */
+    --button-primary: #185EE6;
+    --button-primary-foreground: #fff;
+
+    --button-ghost: transparent;
+    --button-ghost-foreground: #4184F3;
+}
+
+* {
+    font-family: Roboto, sans-serif;
+}
