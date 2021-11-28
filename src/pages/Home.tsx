@@ -1,10 +1,11 @@
 import BigLogo from "../assets/logo-big.svg";
 import Search from "../assets/search.svg";
 import styled from "styled-components";
-import { RefObject, useRef, useState } from "react";
+import React, { RefObject, useRef, useState } from "react";
 import TombstoneCard from "../components/TombstoneCard";
 import GraveyardData from "../assets/graveyard/graveyard.json";
 import Button from "../components/Button";
+import Footer from "../components/Footer";
 
 const MainContent = styled.div`
   padding: 10rem 1rem;
@@ -207,6 +208,7 @@ function Home() {
           See more
         </Button>
       </Graveyard>
+      <Footer variant="white" />
     </>
   );
 }

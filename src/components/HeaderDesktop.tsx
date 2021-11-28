@@ -38,7 +38,7 @@ const HeaderDesktopBase = styled.header`
     color: var(--header-logo-text);
   }
 
-  @media (min-width: 50rem) {
+  @media (min-width: 53.75rem) {
     .links {
       margin-left: 3.25rem;
     }

@@ -8,6 +8,11 @@
     --header-padding-horizontal: 2rem;
     --header-shadow: 0 1px 0 0 #d1d4d9;
 
+    /* footer */
+    --footer-white: #fff;
+    --footer-grey: #F6F6F6;
+    --footer-link: #5F6368;
+
     /* hamburger menu */
     --hamburger-menu: #fff;
     --hamburger-link-selected: rgba(0, 0, 0, 0.7);
