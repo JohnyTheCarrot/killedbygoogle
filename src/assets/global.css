@@ -37,6 +37,17 @@
 
     --button-ghost: transparent;
     --button-ghost-foreground: #4184F3;
+
+    /* about */
+    --about-text: #202124;
+    --about-description: #3C4043;
+    --about-faq-title: #185EE6;
+
+    /* other */
+    --blue: #4184F3;
+    --red: #EA4335;
+    --green: #34A853;
+    --yellow: #FBBC04;
 }
 
 * {

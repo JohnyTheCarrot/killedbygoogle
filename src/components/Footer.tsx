@@ -2,6 +2,7 @@ import styled from "styled-components";
 import LogoTwitter from "../assets/logo-twitter.svg";
 import LogoGithub from "../assets/logo-github.svg";
 import { Link } from "react-router-dom";
+import { HTMLAttributes } from "react";
 
 const FooterBase = styled.footer`
   padding: 2rem;
@@ -67,7 +68,7 @@ const FooterBase = styled.footer`
   }
 `;
 
-interface Props {
+interface Props extends HTMLAttributes<HTMLElement> {
   variant: "white" | "grey";
 }
 
@@ -82,9 +83,9 @@ const footerLinks = [
   },
 ];
 
-function Footer(props: Props) {
+function Footer({ variant, ...props }: Props) {
   return (
-    <FooterBase data-variant={props.variant}>
+    <FooterBase {...props} data-variant={variant}>
       <span className="logo">
         Killed By <strong>Google</strong>
       </span>
