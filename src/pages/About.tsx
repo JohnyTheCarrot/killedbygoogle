@@ -21,6 +21,7 @@ const AboutBase = styled.div`
 
   @media (max-width: 47.5rem) {
     .about__title {
+      padding: 15rem 1.5rem;
       font-size: 1.5rem;
     }
   }
@@ -82,6 +83,12 @@ const AboutBase = styled.div`
       padding: 1.75rem 0;
       color: var(--about-faq-title);
       font-weight: bold;
+      outline: none;
+
+      // Because our old friend Safari is a little stubborn..
+      &::-webkit-details-marker {
+        display: none;
+      }
 
       &::marker {
         content: "";

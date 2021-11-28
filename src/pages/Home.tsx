@@ -51,6 +51,17 @@ const SearchBar = styled.div`
     border: none;
     background-color: transparent;
   }
+
+  @media (max-width: 47.5rem) {
+    width: 70vw;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+    input {
+      margin-left: 0.5rem;
+      font-size: 0.8rem;
+    }
+  }
 `;
 
 const Groups = styled.div`
