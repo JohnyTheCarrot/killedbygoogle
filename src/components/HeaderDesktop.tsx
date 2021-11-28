@@ -4,12 +4,13 @@ import Button from "./Button";
 import HeaderLink from "./HeaderLink";
 
 const HeaderDesktopBase = styled.header`
-  background-color: var(--primary);
+  background-color: var(--header);
   display: flex;
   align-items: stretch;
   box-shadow: var(--header-shadow);
   user-select: none;
-  position: relative;
+  position: sticky;
+  top: 0;
 
   @media (max-width: 47.5rem) {
     display: none;
@@ -68,8 +69,20 @@ function HeaderDesktop() {
         <HeaderLink to="/about">About</HeaderLink>
       </div>
       <div className="buttons">
-        <Button variant="ghost">Submit an Issue</Button>
-        <Button variant="primary">Follow Us</Button>
+        <a
+          href="https://github.com/codyogden/killedbygoogle/issues"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <Button variant="ghost">Submit an Issue</Button>
+        </a>
+        <a
+          href="https://twitter.com/killedbygoogle"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <Button variant="primary">Follow Us</Button>
+        </a>
       </div>
     </HeaderDesktopBase>
   );

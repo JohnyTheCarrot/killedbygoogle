@@ -1,7 +1,6 @@
 import styled, { keyframes } from "styled-components";
 import { Dispatch, SetStateAction } from "react";
 import logo from "../assets/logo.svg";
-import HeaderLink from "./HeaderLink";
 import HamburgerLink from "./HamburgerLink";
 
 const AnimHamburgerClose = keyframes`
@@ -70,9 +69,9 @@ const HamburgerBase = styled.nav`
     top: 0;
     height: 100%;
     z-index: 6000;
-    background-color: var(--primary);
+    background-color: var(--hamburger-menu);
     box-sizing: border-box;
-    width: 16rem;
+    width: 18rem;
     max-width: 80vw;
 
     .hamburger__content {

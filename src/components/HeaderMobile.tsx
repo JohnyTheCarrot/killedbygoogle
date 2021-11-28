@@ -1,13 +1,16 @@
 import styled from "styled-components";
-import logo from "../assets/logo.svg";
+import hamburger from "../assets/hamburger.svg";
 import { useState } from "react";
 import Hamburger from "./Hamburger";
 
 const HeaderMobileBase = styled.header`
+  background-color: var(--header);
   display: flex;
   align-items: center;
   padding: var(--header-padding-vertical);
   box-shadow: var(--header-shadow);
+  position: sticky;
+  top: 0;
 
   @media (min-width: 47.5rem) {
     display: none;
@@ -55,7 +58,7 @@ function HeaderMobile() {
       <button className="hamburger" onClick={() => setHamburgerOpen(true)}>
         <img
           draggable={false}
-          src={logo}
+          src={hamburger}
           alt="hamburger"
           className="hamburger__image"
         />

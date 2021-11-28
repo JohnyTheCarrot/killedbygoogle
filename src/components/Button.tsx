@@ -18,6 +18,11 @@ const ButtonBase = styled.button`
     background-color: var(--button-ghost);
     color: var(--button-ghost-foreground);
   }
+
+  &[disabled] {
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
 `;
 
 interface Props extends ButtonHTMLAttributes<HTMLButtonElement> {
