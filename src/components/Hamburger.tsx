@@ -6,21 +6,21 @@ import Button from "./Button";
 
 const AnimHamburgerClose = keyframes`
   from {
-    left: 0;
+    transform: translateX(0);
   }
   
   to {
-    left: -100%;
+    transform: translateX(-100%);
   }
 `;
 
 const AnimHamburgerOpen = keyframes`
   from {
-    left: -100%;
+    transform: translateX(-100%);
   }
   
   to {
-    left: 0;
+    transform: translateX(0);
   }
 `;
 
@@ -48,7 +48,6 @@ const HamburgerBase = styled.nav`
     }
 
     .hamburger-menu {
-      left: 0;
       animation: ${AnimHamburgerOpen} 400ms ease-out none;
     }
   }
@@ -60,13 +59,15 @@ const HamburgerBase = styled.nav`
     }
 
     .hamburger-menu {
-      left: -100%;
+      transform: translateX(-100%);
+      pointer-events: none;
       animation: ${AnimHamburgerClose} 400ms ease-in none;
     }
   }
 
   .hamburger-menu {
     position: fixed;
+    left: 0;
     top: 0;
     height: 100%;
     z-index: 6000;
