@@ -7,6 +7,8 @@ import GraveyardData from "../assets/graveyard/graveyard.json";
 import Button from "../components/Button";
 import Footer from "../components/Footer";
 
+const tombstoneWidth = "15.75rem";
+
 const MainContent = styled.div`
   padding: 10rem 1rem;
   display: flex;
@@ -104,17 +106,14 @@ const Graveyard = styled.div`
 `;
 
 const Tombstones = styled.div`
-  display: flex;
+  display: inline-grid;
+  grid-template-columns: repeat(auto-fit, ${tombstoneWidth});
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: center;
-  //margin: auto;
+  gap: 2rem;
   width: 80vw;
   min-width: 16rem;
-
-  & > * {
-    margin: 0.5rem;
-  }
 `;
 
 const groupFilters = [
@@ -207,6 +206,7 @@ function Home() {
                 endDate={tombstone.dateClose}
                 link={tombstone.link}
                 image={tombstone.image}
+                width={tombstoneWidth}
               />
             ))}
         </Tombstones>

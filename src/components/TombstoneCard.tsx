@@ -16,9 +16,10 @@ const skeletonPulse = keyframes`
   }
 `;
 
-const TombstoneCardBase = styled.article`
+type TombstoneBaseProps = { width: string };
+const TombstoneCardBase = styled.article<TombstoneBaseProps>`
   background-color: var(--tombstone-background);
-  width: min-content;
+  width: ${({width}) => width};
   height: 23.75rem;
   display: flex;
   flex-direction: column;
@@ -48,6 +49,7 @@ const TombstoneCardBase = styled.article`
     margin-top: auto;
     padding: 1.25rem;
     display: flex;
+    font-size: 0.75rem;
   }
 
   .tombstone__link {
@@ -71,6 +73,7 @@ interface Props {
   endDate: string;
   link: string;
   image: string;
+  width: string;
 }
 
 function TombstoneCard(props: Props) {
@@ -84,7 +87,7 @@ function TombstoneCard(props: Props) {
   }, [props.image]);
 
   return (
-    <TombstoneCardBase>
+    <TombstoneCardBase width={props.width}>
       <img className="tombstone__banner" src={imagePath} alt="" />
       <div className="tombstone__content">
         <h2 className="tombstone__title">{props.title}</h2>
