@@ -6,6 +6,7 @@ import TombstoneCard from "../components/TombstoneCard";
 import GraveyardData from "../assets/graveyard/graveyard.json";
 import Button from "../components/Button";
 import Footer from "../components/Footer";
+import { useSpring, animated, useTransition } from "react-spring";
 
 const tombstoneWidth = "15.75rem";
 
@@ -132,6 +133,18 @@ function Home() {
   );
   const [groupFilter, setGroupFilter] = useState("all");
   const searchInput = useRef() as RefObject<HTMLInputElement>;
+  const filteredGraveyardData = GraveyardData.filter((tombstone) =>
+    tombstone.name.toLowerCase().includes(search.toLowerCase())
+  ).filter((tombstone) => {
+    if (groupFilter === "all") return true;
+
+    return tombstone.type === groupFilter;
+  });
+
+  const nSearchResults = useSpring({
+    val: filteredGraveyardData.length,
+    from: { val: 0 },
+  });
 
   function selectSearchInput() {
     searchInput.current?.focus();
@@ -141,14 +154,8 @@ function Home() {
     setNumberToShow(numberToShow + numberToShowIncrement);
   }
 
-  const filteredGraveyardData = GraveyardData.filter((tombstone) =>
-    tombstone.name.toLowerCase().includes(search.toLowerCase())
-  ).filter((tombstone) => {
-    if (groupFilter === "all") return true;
-
-    return tombstone.type === groupFilter;
-  });
   let seeMoreDisabled = filteredGraveyardData.length < numberToShow;
+
   return (
     <>
       <MainContent>
@@ -188,7 +195,11 @@ function Home() {
         <p className="graveyard__results-number">
           {filteredGraveyardData.length !== 1 ? (
             <>
-              There are {filteredGraveyardData.length} results for this search.
+              There are{" "}
+              <animated.span>
+                {nSearchResults.val.to((v) => Math.round(v))}
+              </animated.span>{" "}
+              results for this search.
             </>
           ) : (
             <>There is 1 result for this search.</>
