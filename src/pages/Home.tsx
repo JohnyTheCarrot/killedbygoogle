@@ -1,12 +1,12 @@
 import BigLogo from "../assets/logo-big.svg";
-import Search from "../assets/search.svg";
 import styled from "styled-components";
-import React, { RefObject, useRef, useState } from "react";
+import React, { useState } from "react";
 import TombstoneCard from "../components/TombstoneCard";
 import GraveyardData from "../assets/graveyard/graveyard.json";
 import Button from "../components/Button";
 import Footer from "../components/Footer";
 import { useSpring, animated } from "react-spring";
+import TombstoneFilter from "../components/TombstoneFIlter";
 
 const tombstoneWidth = "15.75rem";
 
@@ -28,60 +28,6 @@ const MainContent = styled.div`
     font-size: 1rem;
     text-align: center;
     margin-top: 2rem;
-  }
-`;
-
-const SearchBar = styled.div`
-  background-color: var(--main-content-search);
-  margin-top: 5rem;
-  padding: 1rem 2rem;
-  width: 60vw;
-  max-width: 41.25rem;
-  display: flex;
-  border-radius: 2px;
-  cursor: text;
-
-  img {
-    user-select: none;
-    width: 1.25rem;
-  }
-
-  input {
-    margin-left: 1.25rem;
-    font-size: 1rem;
-    width: 100%;
-    outline: none;
-    border: none;
-    background-color: transparent;
-  }
-
-  @media (max-width: 47.5rem) {
-    width: 70vw;
-    padding-left: 1rem;
-    padding-right: 1rem;
-
-    input {
-      margin-left: 0.5rem;
-      font-size: 0.8rem;
-    }
-  }
-`;
-
-const Groups = styled.div`
-  display: flex;
-  margin-top: 1rem;
-
-  .groups__group {
-    cursor: pointer;
-    user-select: none;
-  }
-
-  .groups__group[data-selected="true"] {
-    color: var(--main-content-group);
-  }
-
-  .groups__group:not(:first-child) {
-    margin-left: 1.25rem;
   }
 `;
 
@@ -117,13 +63,6 @@ const Tombstones = styled.div`
   min-width: 16rem;
 `;
 
-const groupFilters = [
-  { label: "all", value: "all" },
-  { label: "apps", value: "app" },
-  { label: "services", value: "service" },
-  { label: "hardware", value: "hardware" },
-];
-
 const numberToShowIncrement = 8;
 
 function Home() {
@@ -132,7 +71,6 @@ function Home() {
     numberToShowIncrement
   );
   const [groupFilter, setGroupFilter] = useState("all");
-  const searchInput = useRef() as RefObject<HTMLInputElement>;
   const filteredGraveyardData = GraveyardData.filter((tombstone) =>
     tombstone.name.toLowerCase().includes(search.toLowerCase())
   ).filter((tombstone) => {
@@ -145,10 +83,6 @@ function Home() {
     val: filteredGraveyardData.length,
     from: { val: 0 },
   });
-
-  function selectSearchInput() {
-    searchInput.current?.focus();
-  }
 
   function increaseNumberToShow() {
     setNumberToShow(numberToShow + numberToShowIncrement);
@@ -168,28 +102,12 @@ function Home() {
         <p className="main-content__description">
           Cheeky (unofficial) open-source tracking of Google’s products.
         </p>
-        <SearchBar onClick={selectSearchInput}>
-          <img src={Search} alt="" draggable={false} />
-          <input
-            ref={searchInput}
-            className="main-content__search"
-            role="search"
-            placeholder="Search the Google Graveyard"
-            onChange={(e) => setSearch(e.currentTarget.value)}
-          />
-        </SearchBar>
-        <Groups>
-          {groupFilters.map((group) => (
-            <span
-              key={group.label}
-              onClick={() => setGroupFilter(group.value)}
-              className="groups__group"
-              data-selected={group.value === groupFilter}
-            >
-              {group.label}
-            </span>
-          ))}
-        </Groups>
+        <TombstoneFilter
+          search={search}
+          setSearch={setSearch}
+          groupFilter={groupFilter}
+          setGroupFilter={setGroupFilter}
+        />
       </MainContent>
       <Graveyard>
         <p className="graveyard__results-number">
