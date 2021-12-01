@@ -6,7 +6,7 @@ import GraveyardData from "../assets/graveyard/graveyard.json";
 import Button from "../components/Button";
 import Footer from "../components/Footer";
 import { useSpring, animated } from "react-spring";
-import TombstoneFilter from "../components/TombstoneFIlter";
+import TombstoneFilter from "../components/TombstoneFilter";
 
 const tombstoneWidth = "15.75rem";
 

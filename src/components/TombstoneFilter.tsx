@@ -71,7 +71,7 @@ interface Props {
   setGroupFilter: (value: string) => void;
 }
 
-function TombstoneFIlter({
+function TombstoneFilter({
   search,
   setSearch,
   groupFilter,
@@ -111,4 +111,4 @@ function TombstoneFIlter({
   );
 }
 
-export default TombstoneFIlter;
+export default TombstoneFilter;
