@@ -6,7 +6,7 @@ import TombstoneCard from "../components/TombstoneCard";
 import GraveyardData from "../assets/graveyard/graveyard.json";
 import Button from "../components/Button";
 import Footer from "../components/Footer";
-import { useSpring, animated, useTransition } from "react-spring";
+import { useSpring, animated } from "react-spring";
 
 const tombstoneWidth = "15.75rem";
 
