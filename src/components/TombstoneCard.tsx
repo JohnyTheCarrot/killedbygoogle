@@ -84,7 +84,6 @@ function TombstoneCard(props: Props) {
 
   useEffect(() => {
     import(`../assets/graveyard/banners/${props.image}`).then((path) => {
-      console.log(path.default);
       setImagePath(path.default);
     });
   }, [props.image]);
