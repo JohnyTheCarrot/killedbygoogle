@@ -1,30 +1,12 @@
-import styled, { keyframes } from "styled-components";
-import { Dispatch, SetStateAction } from "react";
+import styled from "styled-components";
+import { Dispatch, SetStateAction, useCallback, useEffect } from "react";
 import logo from "../assets/logo.svg";
 import HamburgerLink from "./HamburgerLink";
 import Button from "./Button";
+import { animated, config, useSpring } from "react-spring";
+import { useDrag } from "@use-gesture/react";
 
-const AnimHamburgerClose = keyframes`
-  from {
-    transform: translateX(0);
-  }
-  
-  to {
-    transform: translateX(-100%);
-  }
-`;
-
-const AnimHamburgerOpen = keyframes`
-  from {
-    transform: translateX(-100%);
-  }
-  
-  to {
-    transform: translateX(0);
-  }
-`;
-
-const HamburgerBase = styled.nav`
+const HamburgerBase = styled(animated.div)`
   .backdrop {
     z-index: 5000;
     position: fixed;
@@ -32,40 +14,11 @@ const HamburgerBase = styled.nav`
     top: 0;
     width: 100vw;
     height: 100vh;
-    transition: background-color 400ms;
-  }
-
-  &:not([data-open]) {
-    .backdrop,
-    .hamburger-menu {
-      display: none;
-    }
-  }
-
-  &[data-open="true"] {
-    .backdrop {
-      background-color: rgba(0, 0, 0, 0.2);
-    }
-
-    .hamburger-menu {
-      animation: ${AnimHamburgerOpen} 400ms ease-out none;
-    }
-  }
-
-  &[data-open="false"] {
-    .backdrop {
-      background-color: rgba(0, 0, 0, 0);
-      pointer-events: none;
-    }
-
-    .hamburger-menu {
-      transform: translateX(-100%);
-      pointer-events: none;
-      animation: ${AnimHamburgerClose} 400ms ease-in none;
-    }
+    background-color: #000;
   }
 
   .hamburger-menu {
+    touch-action: none;
     position: fixed;
     left: 0;
     top: 0;
@@ -126,14 +79,84 @@ interface Props {
 }
 
 function Hamburger(props: Props) {
-  function onClick() {
-    props.setOpen(false);
+  const hamburgerRest = -300;
+  const [{ hamburgerX }, api] = useSpring(() => ({
+    hamburgerX: hamburgerRest,
+    config: { clamp: true },
+    onRest: ({ value: { hamburgerX } }) => {
+      if (hamburgerX === hamburgerRest) props.setOpen(false);
+    },
+  }));
+
+  const open = useCallback(
+    ({ cancelled }: { cancelled: boolean }) => {
+      api.start({
+        hamburgerX: 0,
+        immediate: false,
+        config: cancelled ? config.wobbly : config.stiff,
+      });
+    },
+    [api]
+  );
+
+  useEffect(() => {
+    if (props.open) open({ cancelled: false });
+  }, [props.open, open]);
+
+  function close() {
+    api.start({
+      hamburgerX: hamburgerRest,
+      immediate: false,
+      config: config.stiff,
+    });
   }
 
+  const bind = useDrag(
+    ({ last, direction: [dx], velocity: [vx], movement: [mx] }) => {
+      if (last) {
+        if (mx < hamburgerRest / 2 || (vx > 0.5 && dx < 0)) {
+          close();
+        } else {
+          open({ cancelled: true });
+        }
+
+        return;
+      }
+
+      if (dx > 0) return;
+
+      api.start({ hamburgerX: mx, immediate: true });
+    },
+    {
+      from: () => [hamburgerX.get(), 0],
+      filterTaps: true,
+      bounds: { right: 0 },
+    }
+  );
+
+  function onClick() {
+    close();
+  }
+
+  const display = hamburgerX.to((py) => (py > hamburgerRest ? "flex" : "none"));
   return (
-    <HamburgerBase data-open={props.open}>
-      <div className="backdrop" onClick={onClick} />
-      <div className="hamburger-menu">
+    <HamburgerBase>
+      <animated.div
+        className="backdrop"
+        onClick={onClick}
+        style={{
+          opacity: hamburgerX.to([0, hamburgerRest], [0.5, 0.0]),
+          display,
+        }}
+      />
+      <animated.div
+        className="hamburger-menu"
+        {...bind()}
+        style={{
+          transform: hamburgerX.to((v) => `translateX(${v}px)`),
+          display,
+        }}
+      >
         <div className="hamburger__logo">
           <img
             draggable={false}
@@ -169,7 +192,7 @@ function Hamburger(props: Props) {
             <Button variant="primary">Follow Us</Button>
           </a>
         </div>
-      </div>
+      </animated.div>
     </HamburgerBase>
   );
 }
