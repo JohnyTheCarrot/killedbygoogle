@@ -6,7 +6,7 @@
     "link": "https://help.fitbit.com/articles/en_US/Help_article/2279.htm",
     "name": "Fitbit Coach",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-07-30",
@@ -15,7 +15,7 @@
     "link": "https://help.fitbit.com/articles/en_US/Help_article/2279.htm#FitStarY",
     "name": "Fitstar Yoga",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-09-27",
@@ -24,7 +24,7 @@
     "link": "https://web.archive.org/web/20210701153646/https://chatbase.com/documentation/docs-overview",
     "name": "Chatbase",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-10-15",
@@ -33,7 +33,7 @@
     "link": "https://9to5google.com/2021/07/20/google-my-maps-android-shutdown/",
     "name": "Google My Maps",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-06-01",
@@ -42,7 +42,7 @@
     "link": "https://www.reddit.com/r/vfx/comments/gur4lc/zync_render_will_shut_down_june_1_2021/",
     "name": "Zync Render",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-07-01",
@@ -51,7 +51,7 @@
     "link": "https://techcrunch.com/2012/07/03/google-shutdowns-continue-igoogle-google-video-google-mini-others-are-killed/",
     "name": "Google Commerce Search",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-04-09",
@@ -60,7 +60,7 @@
     "link": "https://9to5google.com/2021/04/09/google-shopping-app/",
     "name": "Google Shopping Mobile App",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-06-15",
@@ -69,7 +69,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_TV",
     "name": "Google Play Movies & TV",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-04-01",
@@ -78,7 +78,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Public_Alerts",
     "name": "Google Public Alerts",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-03-31",
@@ -87,7 +87,7 @@
     "link": "https://github.com/codyogden/killedbygoogle/issues/865",
     "name": "Google Go Links",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-01-26",
@@ -96,7 +96,7 @@
     "link": "https://www.tiltbrush.com/",
     "name": "Tilt Brush",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2022-01-05",
@@ -105,7 +105,7 @@
     "link": "https://android-developers.googleblog.com/2019/02/an-update-on-android-things.html",
     "name": "Android Things",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-12-10",
@@ -114,7 +114,7 @@
     "link": "https://steamdb.info/app/755770/history/",
     "name": "YouTube VR (SteamVR)",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-06-08",
@@ -123,7 +123,7 @@
     "link": "https://www.androidpolice.com/2021/06/08/google-kills-measure-its-ar-based-measurement-taking-app/",
     "name": "Measure",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-03-31",
@@ -132,7 +132,7 @@
     "link": "https://support.google.com/maps/answer/10394155",
     "name": "Google Crisis Map",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-06-24",
@@ -141,7 +141,7 @@
     "link": "https://www.slashgear.com/pigeon-crowdsourced-transit-app-experiment-is-shutting-down-11624401/",
     "name": "Pigeon Transit",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-05-13",
@@ -150,7 +150,7 @@
     "link": "https://webmasters.googleblog.com/2008/08/make-your-404-pages-more-useful.html",
     "name": "Enhanced 404 Pages",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2010-02-28",
@@ -159,7 +159,7 @@
     "link": "https://mashable.com/archive/youtube-test-tube",
     "name": "YouTube Streams",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-08-31",
@@ -168,7 +168,7 @@
     "link": "https://9to5google.com/2020/07/30/password-checkup-chrome-extension/",
     "name": "Password Checkup extension",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-06-30",
@@ -177,7 +177,7 @@
     "link": "https://www.forbes.com/sites/paulmonckton/2020/06/20/google-photos-featue-cancellation-auto-print-selection/#19631af66294",
     "name": "Google Photos Print",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-10-22",
@@ -186,7 +186,7 @@
     "link": "https://youtube.googleblog.com/2020/05/youtube-music-transfer-google-play-music-library.html",
     "name": "Google Play Music",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-05-12",
@@ -195,7 +195,7 @@
     "link": "https://9to5google.com/2020/04/28/shoelace-area-120-shutdown/",
     "name": "Shoelace",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-05-12",
@@ -204,7 +204,7 @@
     "link": "https://thenextweb.com/google/2020/04/02/google-is-shutting-down-its-neighbourly-app/",
     "name": "Neighbourly",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-03-19",
@@ -213,7 +213,7 @@
     "link": "https://medium.com/google-design/whats-next-for-material-design-s-theming-tools-f65014ffcce7",
     "name": "Material Theme Editor",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-02-17",
@@ -222,7 +222,7 @@
     "link": "https://india.googleblog.com/2020/02/five-years-400-stations-and-thousands.html",
     "name": "Google Station",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-02-06",
@@ -231,7 +231,7 @@
     "link": "https://techcrunch.com/2013/04/18/googles-one-today-app-aims-to-make-charitable-donations-a-more-social-and-frequent-experience/",
     "name": "One Today",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-01-19",
@@ -240,7 +240,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_App_Maker",
     "name": "App Maker",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2018-01-12",
@@ -249,7 +249,7 @@
     "link": "https://github.com/googlearchive/soundstagevr",
     "name": "SoundStage",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-12-31",
@@ -258,7 +258,7 @@
     "link": "https://9to5google.com/2019/11/21/google-cloud-print-dead-2020/",
     "name": "Google Cloud Print",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-03-13",
@@ -267,7 +267,7 @@
     "link": "https://variety.com/2019/digital/news/google-spotlight-stories-shutting-down-1203163117/",
     "name": "Google Spotlight Stories",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-10-17",
@@ -276,7 +276,7 @@
     "link": "https://thenextweb.com/google/2019/10/17/googles-datally-app-for-saving-on-mobile-data-is-dead/",
     "name": "Datally",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-06-05",
@@ -285,7 +285,7 @@
     "link": "https://www.seroundtable.com/google-uncle-sam-13518.html",
     "name": "Google Specialized Search",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-10-15",
@@ -294,7 +294,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Clips",
     "name": "Google Clips",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-10-15",
@@ -303,7 +303,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Daydream",
     "name": "Google Daydream",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-11-22",
@@ -312,7 +312,7 @@
     "link": "https://www.androidpolice.com/2019/09/26/googles-hyperlocal-news-app-bulletin-is-shutting-down/",
     "name": "Google Bulletin",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-11-17",
@@ -321,7 +321,7 @@
     "link": "https://9to5google.com/2019/10/22/google-touring-bird/",
     "name": "Touring Bird",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-10-02",
@@ -330,7 +330,7 @@
     "link": "https://9to5google.com/2019/09/16/youtube-leanback-tv-interface-disabled-soon/",
     "name": "YouTube Leanback",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-09-03",
@@ -339,7 +339,7 @@
     "link": "https://9to5google.com/2019/08/26/youtube-nintendo-3ds-app-shut-down/",
     "name": "YouTube for Nintendo 3DS",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-09-01",
@@ -348,7 +348,7 @@
     "link": "https://www.theverge.com/2019/8/28/20837004/google-hire-next-tool-shut-down-service-jobs-hiring-recruiting-inbox-allo",
     "name": "Hire by Google",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-12-15",
@@ -357,7 +357,7 @@
     "link": "https://de.wikipedia.org/wiki/Google_Correlate",
     "name": "Google Correlate",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-09-18",
@@ -366,7 +366,7 @@
     "link": "https://9to5google.com/2019/08/20/youtube-killing-messages",
     "name": "YouTube Messages",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-09-30",
@@ -375,7 +375,7 @@
     "link": "https://maps.googleblog.com/2011/01/sign-up-for-imagery-update-alert.html",
     "name": "Follow Your World",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-06-15",
@@ -384,7 +384,7 @@
     "link": "https://9to5google.com/2019/07/15/google-kills-blog-compass/",
     "name": "Blog Compass",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2009-08-05",
@@ -393,7 +393,7 @@
     "link": "https://en.wikipedia.org/wiki/List_of_Google_products#2018",
     "name": "Google Radio Automation",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-03-03",
@@ -402,7 +402,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Cardboard",
     "name": "Google Cardboard",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2017-09-20",
@@ -411,7 +411,7 @@
     "link": "https://mashable.com/2017/07/23/youtube-kills-video-editor-tool/",
     "name": "YouTube Video Editor",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-05-15",
@@ -420,7 +420,7 @@
     "link": "https://www.zdnet.com/article/revolv-is-dead-google-killed-it-long-live-innovation/",
     "name": "Revolv",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-01-11",
@@ -429,7 +429,7 @@
     "link": "https://en.wikipedia.org/wiki/Chromecast#Chromecast_Audio",
     "name": "Chromecast Audio",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-03-13",
@@ -438,7 +438,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Allo",
     "name": "Google Allo",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-07-22",
@@ -447,7 +447,7 @@
     "link": "https://techcrunch.com/2019/05/01/google-launches-calljoy-a-virtual-customer-service-phone-agent-for-small-businesses/",
     "name": "CallJoy",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2015-12-21",
@@ -456,7 +456,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Blog_Search",
     "name": "Google Blog Search API",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-07-02",
@@ -465,7 +465,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Real-Time_Search",
     "name": "Google Real-Time Search",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-04-02",
@@ -474,7 +474,7 @@
     "link": "https://en.wikipedia.org/wiki/Inbox_by_Gmail",
     "name": "Inbox by Gmail",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-10-05",
@@ -483,7 +483,7 @@
     "link": "https://en.wikipedia.org/wiki/Sparrow_(email_client)",
     "name": "Sparrow",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2006-12-01",
@@ -492,7 +492,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Answers",
     "name": "Google Answers",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2006-05-08",
@@ -501,7 +501,7 @@
     "link": "https://www.computerweekly.com/news/2240053391/Google-launches-Deskbar-software",
     "name": "Google Deskbar",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2006-10-10",
@@ -510,7 +510,7 @@
     "link": "https://en.wikipedia.org/wiki/Writely",
     "name": "Writely",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2007-12-01",
@@ -519,7 +519,7 @@
     "link": "https://en.wikipedia.org/wiki/AdWords#Google_Click-to-Call",
     "name": "Google Click-to-Call",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2013-07-01",
@@ -528,7 +528,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Reader",
     "name": "Google Reader",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-04-30",
@@ -537,7 +537,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Wave",
     "name": "Google Wave",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-11-11",
@@ -546,7 +546,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Notebook",
     "name": "Google Notebook",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-08-31",
@@ -555,7 +555,7 @@
     "link": "https://gsuite-developers.googleblog.com/2015/08/deprecating-web-hosting-support-in.html",
     "name": "Web Hosting in Google Drive",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2018-04-30",
@@ -564,7 +564,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Search#Dedicated_encrypted_search_page",
     "name": "Encrypted Search",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2018-08-20",
@@ -573,7 +573,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Goggles",
     "name": "Google Goggles",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2013-11-01",
@@ -582,7 +582,7 @@
     "link": "https://en.wikipedia.org/wiki/IGoogle",
     "name": "iGoogle",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2017-02-16",
@@ -591,7 +591,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Spaces_(service)",
     "name": "Google Spaces",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2017-03-31",
@@ -600,7 +600,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Map_Maker",
     "name": "Google Map Maker",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2017-09-01",
@@ -609,7 +609,7 @@
     "link": "https://en.wikipedia.org/wiki/Trendalyzer",
     "name": "Trendalyzer",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2015-10-09",
@@ -618,7 +618,7 @@
     "link": "https://en.wikipedia.org/wiki/Picasa",
     "name": "Picasa",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-01-15",
@@ -627,7 +627,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Developers#Google_Code",
     "name": "Google Code",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-07-01",
@@ -636,7 +636,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Swiffy",
     "name": "Google Swiffy",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-11-04",
@@ -645,7 +645,7 @@
     "link": "https://en.wikipedia.org/wiki/Panoramio",
     "name": "Panoramio",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2015-04-20",
@@ -654,7 +654,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Helpouts",
     "name": "Google Helpouts",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2015-06-30",
@@ -663,7 +663,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Moderator",
     "name": "Google Moderator",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2014-06-23",
@@ -672,7 +672,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Questions_and_Answers",
     "name": "Google Questions and Answers",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2014-09-30",
@@ -681,7 +681,7 @@
     "link": "https://en.wikipedia.org/wiki/Orkut",
     "name": "Orkut",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2014-06-25",
@@ -690,7 +690,7 @@
     "link": "https://en.wikipedia.org/wiki/Quickoffice",
     "name": "Quickoffice",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2014-01-31",
@@ -699,7 +699,7 @@
     "link": "https://www.theverge.com/2014/1/16/5316748/google-quietly-kills-off-its-notifier-service-for-mail-and-calendar",
     "name": "Google Notifier",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-07-11",
@@ -708,7 +708,7 @@
     "link": "https://en.wikipedia.org/wiki/Meebo",
     "name": "Meebo",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-12-31",
@@ -717,7 +717,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Chart_API",
     "name": "Google Chart API",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-12-31",
@@ -726,7 +726,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Search_Appliance#Google_Mini",
     "name": "Google Mini",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2018-12-31",
@@ -735,7 +735,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Search_Appliance",
     "name": "Google Search Appliance",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-03-30",
@@ -744,7 +744,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_URL_Shortener",
     "name": "Google URL Shortener",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-12-15",
@@ -753,7 +753,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Buzz",
     "name": "Google Buzz",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-09-01",
@@ -762,7 +762,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Desktop",
     "name": "Google Desktop",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2022-06-30",
@@ -771,7 +771,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Chrome_App",
     "name": "Google Chrome Apps",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2006-09-15",
@@ -780,7 +780,7 @@
     "link": "https://webmasters.googleblog.com/2006/09/for-those-wondering-about-public.html",
     "name": "Google Public Service Search",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2007-08-11",
@@ -789,7 +789,7 @@
     "link": "https://www.hexus.net/tech/news/software/4324-google-video-marketplace/",
     "name": "Google Video Marketplace",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2008-06-30",
@@ -798,7 +798,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Browser_Sync",
     "name": "Google Browser Sync",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2008-12-31",
@@ -807,7 +807,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Lively",
     "name": "Google Lively",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2008-05-15",
@@ -816,7 +816,7 @@
     "link": "https://en.wikipedia.org/wiki/Picasa#Hello",
     "name": "Hello",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2008-11-24",
@@ -825,7 +825,7 @@
     "link": "https://techcrunch.com/2008/11/24/why-did-google-discontinue-searchmash/",
     "name": "SearchMash",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2009-02-28",
@@ -834,7 +834,7 @@
     "link": "https://en.wikipedia.org/wiki/Dodgeball_(service)",
     "name": "Dodgeball",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2009-07-31",
@@ -843,7 +843,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Mashup_Editor",
     "name": "Google Mashup Editor",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2009-10-31",
@@ -852,7 +852,7 @@
     "link": "https://searchenginewatch.com/sew/news/2062429/new-from-google-labs-google-ride-finder#",
     "name": "Google Ride Finder",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-01-01",
@@ -861,7 +861,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Health",
     "name": "Google Health",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-08-21",
@@ -870,7 +870,7 @@
     "link": "https://en.wikipedia.org/wiki/Postini",
     "name": "Postini",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2010-02-19",
@@ -879,7 +879,7 @@
     "link": "https://en.wikipedia.org/wiki/Marratech",
     "name": "Marratech e-meetings",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2010-03-03",
@@ -888,7 +888,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_SearchWiki",
     "name": "Google SearchWiki",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2010-11-12",
@@ -897,7 +897,7 @@
     "link": "https://en.wikipedia.org/wiki/GOOG-411",
     "name": "GOOG-411",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-07-15",
@@ -906,7 +906,7 @@
     "link": "https://knowledgequest.aasl.org/so-long-google-tour-builder-hello-google-earth/",
     "name": "Tour Builder",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2010-12-17",
@@ -915,7 +915,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Base",
     "name": "Google Base",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-07-31",
@@ -924,7 +924,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Labs",
     "name": "Google Labs",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-09-16",
@@ -933,7 +933,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_PowerMeter",
     "name": "Google PowerMeter",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-04-02",
@@ -942,7 +942,7 @@
     "link": "https://en.wikipedia.org/wiki/Google%2B",
     "name": "Google+",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2014-02-07",
@@ -951,7 +951,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Schemer",
     "name": "Google Schemer",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2013-08-09",
@@ -960,7 +960,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Latitude",
     "name": "Google Latitude",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2013-04-13",
@@ -969,7 +969,7 @@
     "link": "https://en.wikipedia.org/wiki/Picnik",
     "name": "Picnik",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-11-01",
@@ -978,7 +978,7 @@
     "link": "https://techcrunch.com/2016/11/07/google-quietly-shutters-standalone-google-showtimes-movie-site/",
     "name": "Google Showtimes",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2014-01-31",
@@ -987,7 +987,7 @@
     "link": "https://en.wikipedia.org/wiki/Bump_(application)",
     "name": "Bump!",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-10-04",
@@ -996,7 +996,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Nexus",
     "name": "Google Nexus",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-01-15",
@@ -1005,7 +1005,7 @@
     "link": "https://en.wikipedia.org/wiki/Jaiku",
     "name": "Jaiku",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-05-01",
@@ -1014,7 +1014,7 @@
     "link": "https://en.wikipedia.org/wiki/Knol",
     "name": "Knol",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2015-01-18",
@@ -1023,7 +1023,7 @@
     "link": "https://arstechnica.com/gadgets/2015/01/dont-cry-for-the-google-play-edition-program-it-was-already-dead/",
     "name": "Google Play Edition",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-03-01",
@@ -1032,7 +1032,7 @@
     "link": "https://www.gadgetsnow.com/year-in-review-2016/Google-Compare/yearendershow2016/55617272.cms",
     "name": "Google Compare",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-04-03",
@@ -1041,7 +1041,7 @@
     "link": "https://en.wikipedia.org/wiki/Gizmo5",
     "name": "Gizmo5",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-01-15",
@@ -1050,7 +1050,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Code_Search",
     "name": "Google Code Search",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2014-02-17",
@@ -1059,7 +1059,7 @@
     "link": "https://en.wikipedia.org/wiki/SlickLogin",
     "name": "SlickLogin",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2008-08-31",
@@ -1068,7 +1068,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Page_Creator",
     "name": "Google Page Creator",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2017-12-15",
@@ -1077,7 +1077,7 @@
     "link": "https://en.wikipedia.org/wiki/Tango_(platform)",
     "name": "Project Tango",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-05-04",
@@ -1086,7 +1086,7 @@
     "link": "https://get.fabric.io/roadmap",
     "name": "Fabric",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2013-07-01",
@@ -1095,7 +1095,7 @@
     "link": "https://en.wikipedia.org/wiki/Nexus_Q",
     "name": "Nexus Q",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2015-08-04",
@@ -1104,7 +1104,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Catalogs",
     "name": "Google Catalogs",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-04-08",
@@ -1113,7 +1113,7 @@
     "link": "https://mashable.com/2011/04/08/google-hotpot-goes-cold/",
     "name": "Google Hotpot",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-09-02",
@@ -1122,7 +1122,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Sidewiki",
     "name": "Google Sidewiki",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-12-03",
@@ -1131,7 +1131,7 @@
     "link": "https://adsenseforfeeds.blogspot.com/",
     "name": "AdSense for Feeds",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-09-02",
@@ -1140,7 +1140,7 @@
     "link": "https://en.wikipedia.org/wiki/Aardvark_(search_engine)",
     "name": "Aardvark",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2009-03-30",
@@ -1149,7 +1149,7 @@
     "link": "https://www.google.com/s2/sharing/stuff",
     "name": "Google Shared Stuff",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2007-12-31",
@@ -1158,7 +1158,7 @@
     "link": "https://www.lifewire.com/google-zeitgeist-3481903",
     "name": "Zeitgeist",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-09-02",
@@ -1167,7 +1167,7 @@
     "link": "https://en.wikipedia.org/wiki/Project_Ara",
     "name": "Project Ara",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2013-05-15",
@@ -1176,7 +1176,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Talk",
     "name": "Google Talk",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2015-03-15",
@@ -1185,7 +1185,7 @@
     "link": "https://en.wikipedia.org/wiki/BebaPay",
     "name": "BebaPay",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-09-01",
@@ -1194,7 +1194,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Fast_Flip",
     "name": "Google Fast Flip",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2008-01-20",
@@ -1203,7 +1203,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Web_Accelerator",
     "name": "Google Web Accelerator",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2018-10-11",
@@ -1212,7 +1212,7 @@
     "link": "https://en.wikipedia.org/wiki/Reply_(Google)",
     "name": "Reply",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-09-05",
@@ -1221,7 +1221,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Squared",
     "name": "Google Squared",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2015-01-15",
@@ -1230,7 +1230,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Glass",
     "name": "Google Glass Explorer Edition",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2014-02-21",
@@ -1239,7 +1239,7 @@
     "link": "https://en.wikipedia.org/wiki/BufferBox",
     "name": "BufferBox",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2009-03-11",
@@ -1248,7 +1248,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Voice",
     "name": "Grand Central",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-05-24",
@@ -1257,7 +1257,7 @@
     "link": "https://en.wikipedia.org/wiki/Nexus_Player",
     "name": "Nexus Player",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-11-01",
@@ -1266,7 +1266,7 @@
     "link": "https://googleblog.blogspot.com/2012/08/giving-you-better-google.html",
     "name": "Google Listen",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-07-20",
@@ -1275,7 +1275,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Directory",
     "name": "Google Directory",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-11-22",
@@ -1284,7 +1284,7 @@
     "link": "https://en.wikipedia.org/wiki/Gears_(software)",
     "name": "Gears",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2013-06-04",
@@ -1293,7 +1293,7 @@
     "link": "https://googleblog.blogspot.com/2013/03/a-second-spring-of-cleaning.html",
     "name": "Building Maker",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-08-05",
@@ -1302,7 +1302,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Dictionary",
     "name": "Google Dictionary",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-03-01",
@@ -1311,7 +1311,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Friend_Connect",
     "name": "Google Friend Connect",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2017-06-20",
@@ -1320,7 +1320,7 @@
     "link": "https://en.wikipedia.org/wiki/Glass_OS",
     "name": "Glass OS",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2018-08-28",
@@ -1329,7 +1329,7 @@
     "link": "https://en.wikipedia.org/wiki/Tez_(software)",
     "name": "Tez",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2014-01-01",
@@ -1338,7 +1338,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Offers",
     "name": "Google Offers",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-04-30",
@@ -1347,7 +1347,7 @@
     "link": "https://en.wikipedia.org/wiki/MyTracks",
     "name": "MyTracks",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-02-18",
@@ -1356,7 +1356,7 @@
     "link": "https://www.pie.co",
     "name": "Pie",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2017-11-15",
@@ -1365,7 +1365,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Finance",
     "name": "Google Portfolios",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2018-04-01",
@@ -1374,7 +1374,7 @@
     "link": "https://enterprise.google.com/search/products/gss.html",
     "name": "Google Site Search",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2013-11-20",
@@ -1383,7 +1383,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Currents_(2011-2013)",
     "name": "Google Currents",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2010-04-30",
@@ -1392,7 +1392,7 @@
     "link": "https://github.com/BumpTop/BumpTop",
     "name": "BumpTop",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2013-11-20",
@@ -1401,7 +1401,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Checkout",
     "name": "Google Checkout",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-09-02",
@@ -1410,7 +1410,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Pack",
     "name": "Google Pack",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2015-12-11",
@@ -1419,7 +1419,7 @@
     "link": "https://www.crunchbase.com/organization/timeful#section-overview",
     "name": "Timeful",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-07-31",
@@ -1428,7 +1428,7 @@
     "link": "https://www.zdnet.com/article/google-rebang-now-live/",
     "name": "Google Rebang",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-03-06",
@@ -1437,7 +1437,7 @@
     "link": "https://en.wikipedia.org/wiki/Slide.com",
     "name": "Slide",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-02-10",
@@ -1446,7 +1446,7 @@
     "link": "https://maps.googleblog.com/2011/01/retiring-real-estate-on-google-maps.html",
     "name": "Real Estate On Google Maps",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-06-01",
@@ -1455,7 +1455,7 @@
     "link": "https://techcrunch.com/2012/01/20/google-trims-the-fat/",
     "name": "Needlebase",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2013-04-30",
@@ -1464,7 +1464,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Cloud_Connect",
     "name": "Google Cloud Connect",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2013-05-10",
@@ -1473,7 +1473,7 @@
     "link": "https://techcrunch.com/2013/05/12/google-kills-sms-search/",
     "name": "Google SMS",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2018-10-16",
@@ -1482,7 +1482,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_News_%26_Weather",
     "name": "Google News & Weather",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-07-01",
@@ -1491,7 +1491,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Script_Converter",
     "name": "Google Script Converter",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-08-20",
@@ -1500,7 +1500,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Video",
     "name": "Google Video",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-10-13",
@@ -1509,7 +1509,7 @@
     "link": "https://en.wikipedia.org/wiki/ZygoteBody",
     "name": "ZygoteBody",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2009-08-05",
@@ -1518,7 +1518,7 @@
     "link": "https://en.wikipedia.org/wiki/On2_Technologies#Acquisition_by_Google",
     "name": "On2 Flix Cloud",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-12-31",
@@ -1527,7 +1527,7 @@
     "link": "https://en.wikipedia.org/wiki/Noop",
     "name": "Noop Programming Language",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-02-01",
@@ -1536,7 +1536,7 @@
     "link": "https://mangomap.com/blog/the-end-of-google-maps-engine-causes-mass-confusion/",
     "name": "Google Maps Engine",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2018-08-15",
@@ -1545,7 +1545,7 @@
     "link": "https://9to5google.com/2018/07/22/google-kills-save-to-google-chrome-material-theme/",
     "name": "Save to Google Chrome Extension",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-04-20",
@@ -1554,7 +1554,7 @@
     "link": "https://googleblog.blogspot.com/2012/04/spring-cleaning-in-spring.html",
     "name": "Google Flu Vaccine Finder",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-04-20",
@@ -1563,7 +1563,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_One_Pass",
     "name": "Google One Pass",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-07-20",
@@ -1572,7 +1572,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Image_Swirl",
     "name": "Google Image Swirl",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2017-02-08",
@@ -1581,7 +1581,7 @@
     "link": "https://www.slashgear.com/google-shutting-down-hands-free-next-week-02473609/",
     "name": "Google Hands Free",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-05-02",
@@ -1590,7 +1590,7 @@
     "link": "https://en.wikipedia.org/wiki/Freebase",
     "name": "Freebase",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2014-03-14",
@@ -1599,7 +1599,7 @@
     "link": "https://en.wikipedia.org/wiki/Wildfire_Interactive",
     "name": "Wildfire Interactive",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-05-02",
@@ -1608,7 +1608,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Now",
     "name": "Google Now",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2015-08-20",
@@ -1617,7 +1617,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Flu_Trends",
     "name": "Google Flu Trends",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-09-27",
@@ -1626,7 +1626,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Insights_for_Search",
     "name": "Google Insights for Search",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2008-08-28",
@@ -1635,7 +1635,7 @@
     "link": "https://en.wikipedia.org/wiki/List_of_Google_products",
     "name": "Send to Phone",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-03-28",
@@ -1644,7 +1644,7 @@
     "link": "https://en.wikipedia.org/wiki/Urchin_(software)",
     "name": "Urchin",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2017-03-01",
@@ -1653,7 +1653,7 @@
     "link": "https://en.wikipedia.org/wiki/Chromebook_Pixel",
     "name": "Chromebook Pixel",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2007-08-17",
@@ -1662,7 +1662,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Video#Google_Video_Player",
     "name": "Google Video Player",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2018-04-10",
@@ -1671,7 +1671,7 @@
     "link": "https://developers.google.com/qpx-express/",
     "name": "qpx-express-API",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-01-31",
@@ -1680,7 +1680,7 @@
     "link": "https://en.wikipedia.org/wiki/Songza",
     "name": "Songza",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2014-02-01",
@@ -1689,7 +1689,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Chrome_Frame",
     "name": "Google Chrome Frame",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-12-20",
@@ -1698,7 +1698,7 @@
     "link": "https://www.huffingtonpost.com/rory-oconnor/apture-web-30-is-now_b_161608.html",
     "name": "Apture",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-01-31",
@@ -1707,7 +1707,7 @@
     "link": "https://en.wikipedia.org/wiki/Fflick",
     "name": "fflick",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2014-06-30",
@@ -1716,7 +1716,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_TV_(smart_TV_platform)",
     "name": "Google TV",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-10-31",
@@ -1725,7 +1725,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Refine",
     "name": "Google Refine",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-12-03",
@@ -1734,7 +1734,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Fusion_Tables",
     "name": "Google Fusion Tables",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2009-12-05",
@@ -1743,7 +1743,7 @@
     "link": "https://web.archive.org/web/20021105033319/http://www.google.com/apis/",
     "name": "Google Web APIs",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2011-07-01",
@@ -1752,7 +1752,7 @@
     "link": "https://web.archive.org/web/20021105033319/http://www.google.com/apis/",
     "name": "Google Sets",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2015-05-22",
@@ -1761,7 +1761,7 @@
     "link": "https://bgr.com/2011/05/10/google-announces-android-home/",
     "name": "Android @ Home",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-10-31",
@@ -1770,7 +1770,7 @@
     "link": "https://techcrunch.com/2015/07/21/google-acquires-mobile-app-prototyping-tool-pixate/",
     "name": "Pixate",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2015-12-12",
@@ -1779,7 +1779,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Earth#Google_Earth_Plug-in",
     "name": "Google Earth Browser Plug-in",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2009-09-01",
@@ -1788,7 +1788,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Toolbar",
     "name": "Google Toolbar for Firefox",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-03-07",
@@ -1797,7 +1797,7 @@
     "link": "https://www.engadget.com/2019/02/06/google-is-killing-its-notifications-widget/",
     "name": "Google Notification Widget (Mr. Jingles)",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-01-15",
@@ -1806,7 +1806,7 @@
     "link": "https://www.theverge.com/2018/11/27/18114581/youtube-annotations-discontinued-january-2019",
     "name": "YouTube Video Annotations",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2018-12-06",
@@ -1815,7 +1815,7 @@
     "link": "https://android-developers.googleblog.com/2018/10/discontinuing-support-for-android.html",
     "name": "Google Nearby Notifications",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2009-02-12",
@@ -1824,7 +1824,7 @@
     "link": "http://google-tvads.blogspot.com/2009/02/google-exits-radio-but-will-explore.html",
     "name": "Google Audio Ads",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2015-01-14",
@@ -1833,7 +1833,7 @@
     "link": "https://en.wikipedia.org/wiki/Word_Lens",
     "name": "Word Lens",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-05-29",
@@ -1842,7 +1842,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Cloud_Messaging",
     "name": "Google Cloud Messaging (GCM)",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-01-15",
@@ -1851,7 +1851,7 @@
     "link": "https://developers.google.com/realtime/deprecation",
     "name": "Google Realtime API",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-04-23",
@@ -1860,7 +1860,7 @@
     "link": "https://blog.chromium.org/2019/04/data-saver-is-now-lite-mode.html",
     "name": "Data Saver Extension for Chrome",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2013-11-11",
@@ -1869,7 +1869,7 @@
     "link": "https://www.google.com.gh/local/trader/",
     "name": "Google Trader",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-08-31",
@@ -1878,7 +1878,7 @@
     "link": "https://nest.com/works-with-nest/",
     "name": "Works with Nest API",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-06-28",
@@ -1887,7 +1887,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Jump",
     "name": "Google Jump",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2018-03-31",
@@ -1896,7 +1896,7 @@
     "link": "https://github.com/google/recaptcha/issues/221#issuecomment-409586455",
     "name": "reCAPTCHA Mailhide",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-05-30",
@@ -1905,7 +1905,7 @@
     "link": "https://www.androidpolice.com/2018/09/18/youtube-gaming-standalone-app-shut-march-2019-features-migrate-main-app/",
     "name": "YouTube Gaming",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-08-05",
@@ -1914,7 +1914,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Trips",
     "name": "Google Trips",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-06-14",
@@ -1923,7 +1923,7 @@
     "link": "https://techcrunch.com/2017/04/13/google-areo-is-a-new-app-for-ordering-food-or-home-services-in-india/",
     "name": "Areo",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-08-01",
@@ -1932,7 +1932,7 @@
     "link": "https://arstechnica.com/gadgets/2019/06/google-is-killing-youtubes-hangouts-on-air-this-year/",
     "name": "Hangouts on Air",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-12-04",
@@ -1941,7 +1941,7 @@
     "link": "https://support.google.com/translatortoolkit/answer/9462068",
     "name": "Google Translator Toolkit",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-09-30",
@@ -1950,7 +1950,7 @@
     "link": "https://web.archive.org/web/20190929005809/https://support.google.com/a/answer/7039472",
     "name": "G Suite Training",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-04-01",
@@ -1959,7 +1959,7 @@
     "link": "https://weave.googlesource.com/weave/libweave/+log/master/third_party/libuweave",
     "name": "uWeave",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-06-30",
@@ -1968,7 +1968,7 @@
     "link": "https://www.androidauthority.com/google-wallet-cards-stop-working-june-30-683270/",
     "name": "Google Wallet Card",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-12-31",
@@ -1977,7 +1977,7 @@
     "link": "https://blog.angular.io/stable-angularjs-and-long-term-support-7e077635ee9c",
     "name": "AngularJS",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-12-31",
@@ -1986,7 +1986,7 @@
     "link": "https://en.wikipedia.org/wiki/Field_Trip_(application)",
     "name": "Field Trip",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-07-31",
@@ -1995,7 +1995,7 @@
     "link": "https://techcrunch.com/2020/06/30/google-acquires-smart-glasses-company-north-whose-focals-2-0-wont-ship/",
     "name": "Focals by North",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-07-05",
@@ -2004,7 +2004,7 @@
     "link": "https://en.wikipedia.org/wiki/Dragonfly_(search_engine)",
     "name": "Dragonfly",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2012-04-20",
@@ -2013,7 +2013,7 @@
     "link": "https://googleblog.blogspot.com/2012/04/spring-cleaning-in-spring.html",
     "name": "Google Related",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-02-04",
@@ -2022,7 +2022,7 @@
     "link": "https://www.theverge.com/2020/2/4/21123050/google-fiber-tv-package-removed-internet-service-high-speed",
     "name": "Google Fiber TV",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-10-01",
@@ -2031,7 +2031,7 @@
     "link": "https://support.google.com/a/answer/9275489",
     "name": "Message Center",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2018-05-08",
@@ -2040,7 +2040,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Play_Newsstand",
     "name": "Google Play Newsstand",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2016-09-30",
@@ -2049,7 +2049,7 @@
     "link": "http://web.archive.org/web/20160417063132/https://www.android.com/wear/together/",
     "name": "Together",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2013-06-07",
@@ -2058,7 +2058,7 @@
     "link": "http://getpunchd.com/",
     "name": "Punchd",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-02-06",
@@ -2067,7 +2067,7 @@
     "link": "https://9to5google.com/2020/02/06/google-removes-androidify-app/",
     "name": "Androidify",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-12-01",
@@ -2076,7 +2076,7 @@
     "link": "https://arstechnica.com/gadgets/2020/10/google-shuts-down-trusted-contacts-its-emergency-location-sharing-app/",
     "name": "Trusted Contacts",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2017-01-01",
@@ -2085,7 +2085,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Gesture_Search",
     "name": "Gesture Search",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-10-19",
@@ -2094,7 +2094,7 @@
     "link": "https://www.androidpolice.com/2020/10/19/google-confirms-the-nest-secure-has-been-discontinued/",
     "name": "Nest Secure",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-06-30",
@@ -2103,7 +2103,7 @@
     "link": "https://en.wikipedia.org/wiki/Google_Expeditions",
     "name": "Expeditions",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-12-11",
@@ -2112,7 +2112,7 @@
     "link": "https://sciencejournal.withgoogle.com",
     "name": "Science Journal",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-06-30",
@@ -2121,7 +2121,7 @@
     "link": "https://www.theverge.com/2020/11/13/21564279/google-expeditions-vr-cardboard-tours-shutdown-arts-culture-app-migration",
     "name": "Tour Creator",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2019-11-07",
@@ -2130,7 +2130,7 @@
     "link": "https://steamcommunity.com/games/929860/announcements/detail/1608276251516057010",
     "name": "Game Builder",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-06-30",
@@ -2139,7 +2139,7 @@
     "link": "https://support.google.com/poly/answer/10192635",
     "name": "Poly",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2020-12-14",
@@ -2148,7 +2148,7 @@
     "link": "https://9to5google.com/2020/12/14/google-home-max-discontinued/",
     "name": "Google Home Max",
     "type": "hardware",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-05-31",
@@ -2157,7 +2157,7 @@
     "link": "http://www.bitspin.ch/google",
     "name": "Timely",
     "type": "app",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-01-22",
@@ -2166,7 +2166,7 @@
     "link": "https://www.theverge.com/2021/1/21/22243484/alphabet-google-shutting-down-loon-internet-balloon-company-x",
     "name": "Loon",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-02-12",
@@ -2175,7 +2175,7 @@
     "link": "https://github.com/tensorflow/swift",
     "name": "Swift for TensorFlow",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   },
   {
     "dateClose": "2021-09-30",
@@ -2184,6 +2184,6 @@
     "link": "https://en.wikipedia.org/wiki/Google_Bookmarks",
     "name": "Google Bookmarks",
     "type": "service",
-    "image": "unsplash-placeholder-lucas-benjamin.png"
+    "image": "banner-placeholder.png"
   }
 ]
