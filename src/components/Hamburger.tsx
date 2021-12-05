@@ -123,8 +123,6 @@ function Hamburger(props: Props) {
         return;
       }
 
-      if (dx > 0) return;
-
       api.start({ hamburgerX: mx, immediate: true });
     },
     {
