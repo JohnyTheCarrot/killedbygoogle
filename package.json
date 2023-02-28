@@ -7,7 +7,7 @@
   "author": "Cody Ogden",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.18.2",
+    "@babel/core": "^7.21.0",
     "@emotion/babel-preset-css-prop": "^11.2.0",
     "@playwright/test": "^1.22.2",
     "@svgr/webpack": "^6.2.1",
@@ -20,18 +20,20 @@
     "jest": "28.1.0",
     "jest-resolve": "28.1.0",
     "moment": "^2.29.4",
+    "prettier": "^2.8.4",
     "typescript": "^4.7.4"
   },
   "dependencies": {
     "@emotion/core": "^11.0.0",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.10.5",
+    "@stitches/react": "^1.2.8",
     "date-fns": "2.28.0",
     "enquirer": "^2.3.6",
     "lodash": "^4.17.21",
-    "next": "^12.1.6",
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0",
+    "next": "^13.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-select": "^5.7.0",
     "slugify": "1.6.5"
   },
