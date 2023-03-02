@@ -1,6 +1,7 @@
 import React from "react";
 import { Head, Html, Main, NextScript } from "next/document";
-import {getCssText} from "../style/stitches.config";
+import { getCssText } from "../style/stitches.config";
+import { darkTheme } from "../style/darkTheme";
 
 function Document() {
   return (
@@ -11,7 +12,7 @@ function Document() {
           dangerouslySetInnerHTML={{ __html: getCssText() }}
         />
       </Head>
-      <body>
+      <body className={darkTheme}>
         <Main />
         <NextScript />
       </body>
