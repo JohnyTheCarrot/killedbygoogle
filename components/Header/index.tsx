@@ -28,7 +28,7 @@ export function Header() {
       </Styles.HeaderLeft>
       <Styles.HeaderRight hidden={isMobile}>
         <Button type="ghostAccented">Submit an Issue</Button>
-        <Button type="primary">Submit an Issue</Button>
+        <Button type="primary">Follow Us</Button>
       </Styles.HeaderRight>
     </Styles.Header>
   );

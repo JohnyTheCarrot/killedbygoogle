@@ -8,6 +8,7 @@ import graveyard from "graveyard.json";
 import { ProductWithSlug } from "types/Product";
 import SiteMeta from "@/components/SiteMeta";
 import { Header } from "@/components/Header";
+import {Hero} from "@/components/Hero";
 
 interface Props {
   items: ProductWithSlug[];
@@ -18,9 +19,7 @@ function HomePage({ items }: Props) {
     <>
       <SiteMeta />
       <Header />
-      {/*<Header />*/}
-      {/*<App items={items} />*/}
-      {/*<Footer />*/}
+      <Hero />
     </>
   );
 }

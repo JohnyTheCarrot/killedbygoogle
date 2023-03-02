@@ -6,6 +6,9 @@ export const Header = styled("header", {
   display: "flex",
   flexDirection: "row",
   alignItems: "center",
+  position: "sticky",
+  top: 0,
+  backgroundColor: theme.colors.bgBase,
 
   variants: {
     mobile: {

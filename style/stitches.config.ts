@@ -13,10 +13,12 @@ export const {
 } = createStitches({
   theme: {
     colors: {
-      bgBackground: "#fff",
+      bgBase: "#fff",
       bgHero: "#F8F9FA",
       bgHover: "#f5f5f5",
       bgActive: "#eaeaea",
+      bgInput: "#fff",
+      bgLogos: "#8e8e8e",
 
       textPrimary: "#000",
       textNav: "#212124",
@@ -29,6 +31,11 @@ export const {
       accent: "#3872DF",
 
       borderInput: "#3D3F4333",
+
+      googleRed: "#EA4335",
+      googleBlue: "#4184F3",
+      googleGreen: "#34A853",
+      googleYellow: "#FBBC04",
     },
 
     space: {
@@ -44,6 +51,10 @@ export const {
       9: "24px",
       10: "24px",
       11: "28px",
+
+      lg: "32px",
+      xl: "44px",
+      xxl: "72px",
     },
 
     fonts: {
@@ -65,8 +76,8 @@ export const {
 
     radii: {
       rounded: "3px",
-      full: "100%",
-    }
+      full: "9999px",
+    },
   },
 
   media: {
@@ -74,19 +85,29 @@ export const {
   },
 
   utils: {
-    marginX: (value: Stitches.ScaleValue<"space">) => ({
+    marginX: (
+      value: Stitches.ScaleValue<"space"> | Stitches.PropertyValue<"marginLeft">
+    ) => ({
       marginLeft: value,
       marginRight: value,
     }),
-    marginY: (value: Stitches.ScaleValue<"space">) => ({
+    marginY: (
+      value: Stitches.ScaleValue<"space"> | Stitches.PropertyValue<"marginTop">
+    ) => ({
       marginTop: value,
       marginBottom: value,
     }),
-    paddingX: (value: Stitches.ScaleValue<"space">) => ({
+    paddingX: (
+      value:
+        | Stitches.ScaleValue<"space">
+        | Stitches.PropertyValue<"paddingLeft">
+    ) => ({
       paddingLeft: value,
       paddingRight: value,
     }),
-    paddingY: (value: Stitches.ScaleValue<"space">) => ({
+    paddingY: (
+      value: Stitches.ScaleValue<"space"> | Stitches.PropertyValue<"paddingTop">
+    ) => ({
       paddingTop: value,
       paddingBottom: value,
     }),
